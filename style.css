@@ -147,7 +147,10 @@ color: white;
     color: black;
     transform: scale(1.1);
  }
+.container-fluid .container .dropdown-menu  a{
+text-decoration: none;
 
+}
 
 
 
